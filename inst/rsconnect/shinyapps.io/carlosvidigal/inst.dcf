@@ -1,0 +1,10 @@
+name: inst
+title:
+username: carlosvidigal
+account: carlosvidigal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13435877
+bundleId: 9408774
+url: https://carlosvidigal.shinyapps.io/inst/
+version: 1
